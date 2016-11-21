@@ -1,3 +1,3 @@
 # pizza-webpage
 
-Simple Demo for GitHub Project
+Simple Galvanize Demo for GitHub Project
